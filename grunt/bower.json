@@ -3,7 +3,7 @@
   "authors": [
     "E-Ratic Madman <williameliel@gmail.com>"
   ],
-  "description": "Grunt based workflow for shopify theme projects.",
+  "description": "Grunt based workflow for shopify theme projects. If you need to add bower dependencies, they can be managed here.",
   "main": "",
   "moduleType": [],
   "license": "MIT",
