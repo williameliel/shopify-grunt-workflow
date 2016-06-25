@@ -10,7 +10,7 @@ Grunt based workflow for shopify theme projects. This workflow uses grunt-shopif
     rm .git*
     npm install
     bower install
-
+```
 2. Make a private Shopify APP in your store and use the credentials to edit dev-settings.com
 
 ```
@@ -20,3 +20,4 @@ Grunt based workflow for shopify theme projects. This workflow uses grunt-shopif
     "url" : "myshopifystore.myshopify.com",
     "base" : "../"
   }
+```
