@@ -1,1 +1,2 @@
-# shopify-grunt-workflow
+# Shopify-grunt-workflow
+Grunt based workflow for shopify theme projects.
