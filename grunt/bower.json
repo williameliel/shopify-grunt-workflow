@@ -1,0 +1,21 @@
+{
+  "name": "Tamara Mellon",
+  "authors": [
+    "E-Ratic Madman <williameliel@gmail.com>"
+  ],
+  "description": "Grunt based workflow for shopify theme projects.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

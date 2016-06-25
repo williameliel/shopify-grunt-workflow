@@ -1,0 +1,6 @@
+{
+  "api_key" : "API_KEY_HERE",
+  "password" : "API_PASSWORD_HERE",
+  "url" : "myshopifystore.myshopify.com",
+  "base" : "../"
+}
