@@ -7,7 +7,8 @@ Grunt based workflow for shopify theme projects. This workflow uses grunt-shopif
 ```
 git clone https://github.com/williameliel/shopify-grunt-workflow.git grunt
 cd grunt
-rm .git*
+rm -rf .git*
+mv src ../
 npm install
 bower install
 ```
