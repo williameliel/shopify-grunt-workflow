@@ -22,3 +22,9 @@ bower install
   "base" : "../"
 }
 ```
+3. Development process
+
+```
+grunt watch # watches the changed files and uploads them to your theme.
+grunt build # builds the scripts.
+```
